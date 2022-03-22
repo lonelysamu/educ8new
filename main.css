@@ -204,6 +204,10 @@ h1{
     border: none;
 }
 
+.fixedimg{
+    max-width: 250px;
+}
+
 .hideori {
     opacity: 0;
 }
