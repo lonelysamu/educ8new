@@ -11,7 +11,7 @@ body{
 .imgbg{
     background-image: url("img/bg/bg2.jpg");
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
